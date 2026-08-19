@@ -1,0 +1,6 @@
+{
+  "name": "ConciliaPyme Paraguay",
+  "description": "Sistema de gestión y conciliación bancaria automatizada ISO 20022 (CAMT.052/053/054) para PYMEs en Paraguay con soporte exclusivo de Banco Itaú y ueno bank, multiempresa, control de acceso B2B, temas claro/oscuro y paquete de despliegue para tesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
